@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GPSMapApp</string>
+    <string name="map_content_description">Mapa interactivo de Google Maps</string>
+    <string name="enter_first_location">Ingrese la primera dirección</string>
+    <string name="enter_second_location">Ingrese la segunda dirección</string>
+    <string name="calculate_distance">Calcular distancia</string>
+    <string name="direction1_hint">Ingrese Dirección 1</string>
+    <string name="direction2_hint">Ingrese Dirección 2</string>
+    <string name="calculate_button">Calcular Distancia</string>
+</resources>
